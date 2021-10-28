@@ -1,0 +1,69 @@
+body {
+  font-family: "Bebas Neue", cursive, "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://cdn.discordapp.com/attachments/887328197493006401/887328278933819452/3d-cryptocurrency-rendering-design.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+  border-color: #ffb6c1;
+}
+
+label {
+  color: #3cb371;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.pink-border {
+  border-color: #ffb6c1;
+}
+
+#valorConvertido {
+  font-family: "Bebas Neue", cursive;
+  font-size: 16px;
+  color: #ffffff;
+  width: 150px;
+  border: 15px FFFFFF;
+  padding: 40px;
+  margin: auto;
+  position: center;
+}
